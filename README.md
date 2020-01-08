@@ -1,3 +1,5 @@
+Fork adding pods autolinking support
+
 # React Native Calendar Reminders
 React Native Module for IOS Calendar Reminders
 
